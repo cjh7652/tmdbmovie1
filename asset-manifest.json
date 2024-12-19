@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tmdbmovie1/static/css/main.a478aafd.css",
+    "main.js": "/tmdbmovie1/static/js/main.0506788c.js",
+    "index.html": "/tmdbmovie1/index.html",
+    "main.a478aafd.css.map": "/tmdbmovie1/static/css/main.a478aafd.css.map",
+    "main.0506788c.js.map": "/tmdbmovie1/static/js/main.0506788c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a478aafd.css",
+    "static/js/main.0506788c.js"
+  ]
+}
